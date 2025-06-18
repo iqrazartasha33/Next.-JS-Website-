@@ -94,7 +94,7 @@ function Header() {
         
         <div className="p-6 rounded-lg shadow-md bg-[#C1DBB3] text-[#096B68]">
           <Image
-            src="/snacks.avif"
+            src="/Snacks.avif"
             alt="Snacks"
             width={80}
             height={80}
@@ -122,7 +122,7 @@ function Header() {
 
         <div className="p-6 rounded-lg shadow-md bg-[#C1DBB3] text-[#096B68]">
           <Image
-            src="/beverages.avif"
+            src="/Beverages.avif"
             alt="Beverages"
             width={80}
             height={80}
