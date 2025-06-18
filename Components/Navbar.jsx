@@ -17,7 +17,7 @@ function Navbar() {
   return (
     <nav className="bg-[#096B68] p-4 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
-        <div className="text-white text-2xl font-extrabold">Super Grocer!</div>
+        <div className="text-white text-2xl font-extrabold">Super Grocer</div>
 
         <div className="md:hidden">
           <button id="menu-toggle" className="space-y-1.5">
